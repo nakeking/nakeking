@@ -1,6 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nakeking&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-
 <!--
 **Nakeking/nakeking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -23,5 +20,5 @@ Here are some ideas to get you started:
 
 ### ☀️ Project
 
-- 🧰  [snake-design](https://github.com/nakeking/snake-design)
-- 🎵  [TypeScript Study Notes](https://github.com/nakeking/TypeScript-Study-Notes)
+- 🌱  [snake-design](https://github.com/nakeking/snake-design)
+- ⚡ [TypeScript Study Notes](https://github.com/nakeking/TypeScript-Study-Notes)
