@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 🌱  [snake-design](https://github.com/nakeking/snake-design)
 - ⚡ [TypeScript Study Notes](https://github.com/nakeking/TypeScript-Study-Notes)
 - ⚡ [ts-axios](https://github.com/nakeking/ts-axios)
+- ⚡ [Chatbox](https://github.com/nakeking/ChatBox)
